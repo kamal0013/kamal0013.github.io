@@ -21,8 +21,8 @@ primarylinks:
 #   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
 
 #Any buzzword skills you want to include
-# skills:
-#  - Scala
+ Research Keywords:
+ - Scala
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
