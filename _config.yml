@@ -4,7 +4,7 @@ twitter_username: k_chy0013
 name: AFM Kamal Chowdhury
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 
 #User specific content
 #Links that will appear in the navbar
